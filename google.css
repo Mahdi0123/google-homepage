@@ -1,0 +1,44 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.top{
+	color:#737373;
+	height: 100px;
+	float: right;
+	padding-right: 30px;
+    padding-top: 30px;
+    position: relative;
+}
+
+th, td {
+    padding: 0.11em;
+    background-color: #737373;
+    padding:0.1em;
+}
+
+.top a{
+	text-decoration: none;
+    color:#737373;
+}
+
+.top li{
+list-style-type: none;
+}
+
+.top p,ul,table{
+	padding: 6.2px;
+	position: relative;
+	cursor: pointer;
+}
+
+table{
+
+	top: -12.5px;
+	position: relative;
+}
+
+table tr td{
+	padding: 0.12em;
+}
