@@ -7,9 +7,11 @@
 	color:#737373;
 	height: 100px;
 	float: right;
-	padding-right: 30px;
-    padding-top: 30px;
+	padding-right: 40px;
+    padding-top: 20px;
     position: relative;
+    font-family: Arial, sans-serif;
+    line-height: 24px;
 }
 
 th, td {
@@ -31,14 +33,18 @@ list-style-type: none;
 	padding: 6.2px;
 	position: relative;
 	cursor: pointer;
+
 }
 
 table{
-
-	top: -12.5px;
+	top: -10px;
 	position: relative;
 }
 
 table tr td{
 	padding: 0.12em;
+}
+
+.top p,ul{
+	font-size: 13px;
 }
